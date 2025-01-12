@@ -1,6 +1,6 @@
 # TezCare: A Decentralized Healthcare Management System Using Tezos Blockchain
 
-![Project Logo](https://example.com/tezcare-logo.png)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
